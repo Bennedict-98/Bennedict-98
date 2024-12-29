@@ -3,11 +3,11 @@ I'm a **data enthusiast** skilled in data analysis, financial modeling, and repo
 ## Data Visualization in Power BI 
 In this project, I conducted an Exploratory Data Analysis (EDA) of the Adidas US sales dataset to present an Executive Overview and Product Data Analysis. The report highlights trends in total sales, profitability, sales volume, average price, and operating margin. The main tool used for the analysis is Power BI, utilizing dummy data generated via a Python script to evaluate performance and trends in the sales
 ## Visual Analysis
-![Power BI Screenshot] (https://github.com/Bennedict-98/Adidas-Sales-Analysis---Using-Dummy-Sales-Data-Generated-from-Python/issues/1#issue-2761488327)
+
+![Adidas sales analysis ](https://github.com/user-attachments/assets/edc77ecb-b5cf-46a7-8452-e0e899ae1f54)
 
 ## Financial Reporting and Analysis in Power BI
 
-![XYZ  Visual](https://github.com/user-attachments/assets/7b028f24-cc3d-42cd-aff2-54c51e4fa00c)
 
 **Introduction**
 
@@ -68,6 +68,11 @@ The company achieved an annual gross profit margin of 61.78%. Monthly fluctuatio
 The highest margins were seen in February (68%) and January (66%). May to June maintained relatively stable margins between 62% and 63%. September saw the lowest margin at 52%, but the year ended strong with December reaching 62%.
 
 The company achieved an annual net profit margin of 24.57%. Monthly net profit margins fluctuated, with January (36%) and February (31%) recording the highest figures. Margins remained relatively strong between May and June, reaching 28% to 29%, before dipping significantly in September (8%) and October (2%). The year ended positively, with December returning to 31%. These fluctuations reflect a generally strong net profit performance, with notable volatility during the mid-year months.
+
+**Visual Representation**
+
+![XYZ  Visual](https://github.com/user-attachments/assets/7b028f24-cc3d-42cd-aff2-54c51e4fa00c)
+
 
 **Tools Used**
 

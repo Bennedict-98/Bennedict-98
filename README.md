@@ -5,7 +5,7 @@ In this project, I conducted an Exploratory Data Analysis (EDA) of the Adidas US
 ## Visual Analysis
 ![Power BI Screenshot] (https://github.com/Bennedict-98/Adidas-Sales-Analysis---Using-Dummy-Sales-Data-Generated-from-Python/issues/1#issue-2761488327)
 
-## Financial Reporting and Analysis in Power Bi (https://github.com/Bennedict-98/Financial-Reporting-and-Analysis-in-Power-BI/edit/main/README.md)
+## Financial Reporting and Analysis in Power BI (https://github.com/Bennedict-98/Financial-Reporting-and-Analysis-in-Power-BI/edit/main/README.md)
 
 **Introduction**
 

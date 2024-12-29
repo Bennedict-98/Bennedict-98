@@ -75,6 +75,7 @@ The company achieved an annual net profit margin of 24.57%. Monthly net profit m
 
 ![XYZ Profit breakdown](https://github.com/user-attachments/assets/5c65d894-4351-4434-9394-cec9a072a093)
 
+![XYZ Expense Breakdwon](https://github.com/user-attachments/assets/d42db06f-53a1-429c-866b-0b5a5d98d01f)
 
 **Tools Used**
 

@@ -6,6 +6,8 @@ In this project, I conducted an Exploratory Data Analysis (EDA) of the Adidas US
 
 ![Adidas sales analysis ](https://github.com/user-attachments/assets/edc77ecb-b5cf-46a7-8452-e0e899ae1f54)
 
+<div style="border: 2px solid black; padding: 10px; margin-top: 10px; display: inline-block; text-align: center;"> <a href="https://github.com/Bennedict-98/Adidas-US-Sales-Analysis---Dummy-Data-Generated-from-Python.git" style="color: black; text-decoration: none; font-weight: bold;">View Project</a> </div>
+
 ## Financial Reporting and Analysis in Power BI
 
 

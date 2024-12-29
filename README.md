@@ -81,7 +81,15 @@ The company achieved an annual net profit margin of 24.57%. Monthly net profit m
 
 ![Income-Expense Breakdown](https://github.com/user-attachments/assets/fde025b0-e67a-40c6-bf26-562223a4cb10)
 
+
+<div style="border: 2px solid black; padding: 10px; margin-top: 10px; display: inline-block; text-align: center;"> <a href="https://github.com/Bennedict-98/Financial-Reporting-and-Analysis-in-Power-BI.git" style="color: black; text-decoration: none; font-weight: bold;">View Project</a> </div>
+
+
 **Tools Used**
+
+
+
+
 
 Power BI
 
